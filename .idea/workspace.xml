@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee65cea2-f0d0-4000-bc7d-72e8a284c28c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/views/Giderler/ekle.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Giderler.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Giderler.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/GiderlerController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/GiderlerController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Giderler/liste.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Giderler/liste.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -150,7 +148,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1574002592470</updated>
-      <workItem from="1574002599150" duration="3798000" />
+      <workItem from="1574002599150" duration="4334000" />
     </task>
     <servers />
   </component>
