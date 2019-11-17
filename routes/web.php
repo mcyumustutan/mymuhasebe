@@ -18,4 +18,7 @@ Route::get('/', function () {
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
-Route::get('/Giderler/liste', 'GiderlerController@liste');
+Route::get('/Giderler/liste', 'GiderlerController@liste')->name('GiderlerListesi');
+Route::get('/Giderler/ekle', 'GiderlerController@ekle');
+Route::post('/Giderler/saveGider', 'GiderlerController@saveGider')->name('saveGider');
+Route::get('/Giderler/deleteGider', 'GiderlerController@deleteGider')->name('deleteGider');
